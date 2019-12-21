@@ -3,3 +3,6 @@ Welcome to the Oracle recipes
 Pasta
 kheer
 Tomato fry
+banana
+apple
+kabab
